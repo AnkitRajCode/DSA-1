@@ -50,4 +50,4 @@ stack[++top]=a;
 char pop()
 {
 return stack[top--];
-}
+
