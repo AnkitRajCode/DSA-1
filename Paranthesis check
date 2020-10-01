@@ -48,6 +48,6 @@ void push(char a)
 stack[++top]=a;
 }
 char pop()
-{
+
 return stack[top--];
-}
+
